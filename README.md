@@ -13,6 +13,14 @@ I'm Kierra Benoit, a Software Engineering Student at Western Governors Universit
 
 ⚡ Fun fact: When I’m not working, you can find me spending quality time with my family. I'm excited about the possibilities that lie ahead and the potential to make a positive impact through my work.
 
+🎓 **Licenses & certifications:**
+- https://www.credly.com/badges/cd1d6be9-1491-49ef-bedf-8e982ffc9cfb/public_url
+  - **AWS Certified Cloud Practitioner**
+
+- https://www.credly.com/badges/e210bb10-6b9c-4b1e-bd28-523b79f08f87/public_url
+  - **CompTIA Project+ Certification**
+ 
+
 
 🛠️ Skills:
 - HTML
@@ -23,6 +31,8 @@ I'm Kierra Benoit, a Software Engineering Student at Western Governors Universit
 - Python
 - Figma
 - Git
+
+
 
 
 
