@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Anything related to software development, programming languages, or tech industry trends.**
 
-- 📫 How to reach me **kierrabenoitk@yahoo.com**
+- 📫 How to reach me **kbenoi6@wgu.edu**
 
 - ⚡ Fun fact **When I’m not working, you can find me spending quality time with my family. I'm excited about the possibilities that lie ahead and the potential to make a positive impact through my work.**
 
